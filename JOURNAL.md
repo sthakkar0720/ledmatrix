@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/pb8vjhpacmb7hubiivnx5dg6)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Making a TFT display with pixels
+> An 8x8 LED light matrix made using the guide provided. Can be used with firmware to show emojis, animation, weather icons, scrolling text, etc.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
