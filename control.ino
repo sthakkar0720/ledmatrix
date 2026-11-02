@@ -27,7 +27,6 @@ void setup() {
 }
 
 void loop() {
-  // Loop logic can be inserted here if dynamic updates are required.
 }
 
 void initDisplay() {
