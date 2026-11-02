@@ -4,3 +4,6 @@ I may need to improve this, as I did not spend much time on it because of school
 <img width="955" height="536" alt="image" src="https://github.com/user-attachments/assets/ba6e58df-80c7-4057-b2d9-4a9784da2bdb" />
 <img width="721" height="793" alt="image" src="https://github.com/user-attachments/assets/231bcda2-b28d-4f23-ad05-d1f011b5827d" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/715f97c8-6a8a-4d1d-91df-b747440705db" />
+Bill Of Materials:
+||||
+___
